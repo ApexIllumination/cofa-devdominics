@@ -1,0 +1,22 @@
+{
+  "release_version": "0.2.0",
+  "files": {
+    "CORE.md": "4e811408d52f94848db7dbfe0446296b9c90eafe8564cd7e9d0db5200e0cf2c2",
+    "EXAM.md": "11baa7f2b643f55fddfc4fcc94ae17264cbd8d641b6c6471148bdb82cfbf1344",
+    "OPERATIONS.md": "af0a14b5a5c1a003ed3472a82d394077b0b2805da52da0211b51b75b63023c99",
+    "README.md": "122af727a10f9ad3d3a47f81c5475589d20082f65ed1277397e448f2acc0b661",
+    "scripts/cofa.py": "0e80d02c88eab80718222a22327cd8e611e66caebcc014bbd4fe816451566105",
+    "skills/decision-rules/SKILL.md": "7073eda9a4d277e9f566ad7f33e5654bdec9589d2643a01e1b92ab93a2939422",
+    "skills/explain-work/SKILL.md": "d8b80a99f088929b7a18d50d559dcbdc483122b2fc5941c5cdcc7013be24b34c",
+    "skills/session-handoff/SKILL.md": "a2a3f7f34f8378c850b123282f58fe4c5399d308d831c603341331e992967f04",
+    "skills/task-scope/SKILL.md": "d2a11e364bbaa843b433a426ede58b54e7759217567c24a99c2d66e8c0e291d6",
+    "skills/task-scope/references/stakeholder-elicitation.md": "19c8c0ef3efa77acf7720f51cd255048c510790b568a59f2b12647a67c55ee66",
+    "skills/tool-contracts/SKILL.md": "43b7ec55be30209afe03b6ea755b4207a6029376c0834382b5a3da09fa3a266e",
+    "skills/tool-contracts/references/data-contract.md": "d189715bee2d5ce2dc6be795f878a1fe9ec72db5a56cad6ae2bef72403235ed9",
+    "skills/verify-results/SKILL.md": "0c84ea254cf2ce30b26ece29f3f101de49755eaafe9ca53d82211c10205b3424",
+    "skills/verify-results/references/data-checks.md": "1cf06a7a95824009b4b78363e49d87d006e3ca405d26444b644136b82518a54f",
+    "templates/eval-cases.json": "11327dd6edadc241ef45e3419a297d818433a480c222aa8bcfa9f5430b09f704",
+    "templates/pipeline-map.json": "06f86b0f38b3168f88ce757588e708edf49bfb244738ab0a6953d993b2a7741d",
+    "templates/task-state.md": "1195bfa0b535c6b33372f69fee3b1f2109fa63503e9a8df64804b54e929603eb"
+  }
+}

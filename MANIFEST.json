@@ -1,9 +1,9 @@
 {
-  "release_version": "0.2.1",
+  "release_version": "0.2.2",
   "files": {
-    "CORE.md": "4e811408d52f94848db7dbfe0446296b9c90eafe8564cd7e9d0db5200e0cf2c2",
+    "CORE.md": "66f14283ccb0fb055815e922450bfbbb30cce0d7aca47754fa9addfafd5b9767",
     "EXAM.md": "11baa7f2b643f55fddfc4fcc94ae17264cbd8d641b6c6471148bdb82cfbf1344",
-    "OPERATIONS.md": "af0a14b5a5c1a003ed3472a82d394077b0b2805da52da0211b51b75b63023c99",
+    "OPERATIONS.md": "a0d7417b014f52a0ff13aeba3cf153fe01a866eddac034f845ff559d28d282ac",
     "README.md": "122af727a10f9ad3d3a47f81c5475589d20082f65ed1277397e448f2acc0b661",
     "scripts/cofa.py": "0e80d02c88eab80718222a22327cd8e611e66caebcc014bbd4fe816451566105",
     "skills/decision-rules/SKILL.md": "7073eda9a4d277e9f566ad7f33e5654bdec9589d2643a01e1b92ab93a2939422",
@@ -17,6 +17,6 @@
     "skills/verify-results/references/data-checks.md": "1cf06a7a95824009b4b78363e49d87d006e3ca405d26444b644136b82518a54f",
     "templates/eval-cases.json": "11327dd6edadc241ef45e3419a297d818433a480c222aa8bcfa9f5430b09f704",
     "templates/pipeline-map.json": "06f86b0f38b3168f88ce757588e708edf49bfb244738ab0a6953d993b2a7741d",
-    "templates/task-state.md": "1195bfa0b535c6b33372f69fee3b1f2109fa63503e9a8df64804b54e929603eb"
+    "templates/task-state.md": "5dfa0672b3f748de66a67e7b84c065fc24405f6a15668d329ce8eeb15cc1e521"
   }
 }

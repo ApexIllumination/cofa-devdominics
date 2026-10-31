@@ -1,10 +1,10 @@
 {
-  "release_version": "0.2.3",
+  "release_version": "0.2.4",
   "files": {
     "CORE.md": "66f14283ccb0fb055815e922450bfbbb30cce0d7aca47754fa9addfafd5b9767",
     "EXAM.md": "11baa7f2b643f55fddfc4fcc94ae17264cbd8d641b6c6471148bdb82cfbf1344",
     "OPERATIONS.md": "7c8c0d6b8c3ac9d195345721a493abd85b9d8b0c788d763053b39779df222cb0",
-    "README.md": "122af727a10f9ad3d3a47f81c5475589d20082f65ed1277397e448f2acc0b661",
+    "README.md": "634b832fc22f0d30c94c3bb80e97ab5bcfe63557309a7aac23f66828b7c0ec53",
     "scripts/cofa.py": "0e80d02c88eab80718222a22327cd8e611e66caebcc014bbd4fe816451566105",
     "skills/decision-rules/SKILL.md": "7073eda9a4d277e9f566ad7f33e5654bdec9589d2643a01e1b92ab93a2939422",
     "skills/explain-work/SKILL.md": "d8b80a99f088929b7a18d50d559dcbdc483122b2fc5941c5cdcc7013be24b34c",
